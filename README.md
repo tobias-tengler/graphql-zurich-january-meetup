@@ -1,3 +1,8 @@
+## Slides
+
+[Download as .pptx](./Fusion_Fever.pptx)
+[Download as .pdf](./Fusion_Fever.pdf)
+
 ## Speakers
 
 ### Martin Disch
